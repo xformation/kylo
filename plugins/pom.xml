@@ -26,7 +26,7 @@
     <module>hadoop-authorization-ranger-default</module>
     <module>hadoop-authorization-sentry-default</module>
     <module>schema-discovery-default</module>
-    <module>ui-sqoop-table-data-processor-template</module>
+<!--    <module>ui-sqoop-table-data-processor-template</module>-->
     <module>search-elasticsearch</module>
     <module>search-solr</module>
     <module>jms-service-activemq</module>
